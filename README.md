@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @veelcheck, spelled "wilczek" in my native language. It means a wolf cub which makes it a lovely coincident for an aspiring junior dev.
-- 🌱 I’m currently learning how to become a wolf of Frontend and enetually a Full-Stack Dev.
+- 🌱 I’m currently learning how to become a wolf of Frontend and eventually a Full-Stack Dev.
 - :wolf: Good day to y'all, woof woof.
 
 <!---
